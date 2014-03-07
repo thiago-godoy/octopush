@@ -7,7 +7,7 @@ Octopush is an application to manage deployment requests executed by Jenkins.
 
 Installation
 ------------
-Octopush is built on PHP and MySQL. Its Php dependencies are managed with composer but there are some components that should be installed manually:  
+Octopush is built on PHP and MySQL. Its PHP dependencies are managed with composer but there are some components that should be installed manually:  
 
 * PHP 5.3
 * php5-mysql
@@ -18,7 +18,7 @@ Octopush is built on PHP and MySQL. Its Php dependencies are managed with compos
 Quickstart
 --------------
 
-After intalling the base compoenents mentioned above, you can follow the steps below to get your Octopush instance running:
+After intalling the base components mentioned above, you can follow the steps below to get your Octopush instance running:
 * Clone repo
 * Get the composer installer by executing: _curl -s https://getcomposer.org/installer | php_
 * Install dependencies: _php composer.phar install_

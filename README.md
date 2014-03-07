@@ -1,6 +1,8 @@
 Octopush
 ========
 
+[![Build Status](https://travis-ci.org/olx-inc/octopush.png?branch=master)](https://travis-ci.org/olx-inc/octopush)
+
 Octopush is an application to manage deployment requests executed by Jenkins.  
 
 Installation
